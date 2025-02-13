@@ -2,3 +2,5 @@
 test repo voor minor DataVis
 
 # Judeska jonguh
+![a dummy picture] (img/Judeska.png)
+
