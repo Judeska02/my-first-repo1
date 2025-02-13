@@ -2,5 +2,5 @@
 test repo voor minor DataVis
 
 # Judeska jonguh
-![Judeska](img/Judeska.jpg)
+![Judeska](Judeska.jpg)
 
